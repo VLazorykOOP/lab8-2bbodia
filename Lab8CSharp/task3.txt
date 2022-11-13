@@ -1,0 +1,2 @@
+﻿Its third task, where 
+my code have to deletee all the longest words

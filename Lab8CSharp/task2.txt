@@ -1,0 +1,3 @@
+﻿Hello, dear friend! 
+It`s laboratorna of MPUIK subject C#.
+It count words from file.
